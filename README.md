@@ -12,6 +12,10 @@ Based in Pune, India. Open to senior IC and staff+ roles.
 - [`ai-sales-team-public`](https://github.com/ketankhairnar/ai-sales-team-public) — Multi-agent outbound pipeline (Manager / Coordinator / Agent topology). TypeScript.
 - [`akka-distributed-cache`](https://github.com/ketankhairnar/akka-distributed-cache) — Akka Cluster, consistent hashing, configurable consistency (ONE / QUORUM / ALL), fault-tolerant replication.
 
+**Upstream contributions**
+
+- [`withastro/flue`](https://github.com/withastro/flue) — agent SDK fixes: [#71 keep SSE streams alive past Node's 300 s timeout](https://github.com/withastro/flue/pull/71), [#25 honor bash tool timeout parameter end-to-end](https://github.com/withastro/flue/pull/25).
+
 **What I tend to work on**
 
 - Distributed systems — replication, consistency models, fault tolerance
