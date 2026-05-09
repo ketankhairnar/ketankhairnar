@@ -10,7 +10,7 @@ Based in Pune, India. Open to senior IC and staff+ roles.
 
 - [`tacit-skills`](https://github.com/ketankhairnar/tacit-skills) — Claude Code skills for senior engineers making lonely technical decisions. `/scrutiny` `/verdict` `/autopsy` `/fracture` and a `/tacit` router.
 - [`ai-sales-team-public`](https://github.com/ketankhairnar/ai-sales-team-public) — Multi-agent outbound pipeline (Manager / Coordinator / Agent topology). TypeScript.
-- [`akka-distributed-cache`](https://github.com/ketankhairnar/akka-distributed-cache) — Akka Cluster, consistent hashing, configurable consistency (ONE / QUORUM / ALL), fault-tolerant replication.
+- [`akka-distributed-cache`](https://github.com/ketankhairnar/akka-distributed-cache) — Distributed cache on Akka Cluster Sharding. Entity actors keyed by cache key, ddata-based shard coordination, JSON HTTP API across a 3-node cluster.
 
 **Upstream contributions**
 
